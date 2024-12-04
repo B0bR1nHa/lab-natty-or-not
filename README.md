@@ -21,22 +21,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+O que é IA 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar uma apresentação com um avatar virtual explicando o que é IA
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT; Eleven Labs; D-ID
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Utilizei o ChatGPT para a criação do texto.
+Depois, o Eleven Labs para a transformar o texto em audio.
+No D-ID, escolhi um avatar entre as opções fornecidas. Fiz a unificação do áudio gerado no eleven Labs com o avatar do D-ID. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+O vídeo criado desdioavatar.mp4
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+
 
 ### Exemplos e Insigths
 
